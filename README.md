@@ -1,1 +1,1 @@
-# solarispr-gemini
+# solaris-gemini
